@@ -11,7 +11,7 @@ export const onRenderBody = ({ setPostBodyComponents }) => {
     <script
       key="vibe-vaults-widget"
       src="https://www.vibe-vaults.com/widget.js"
-      data-key="17cef3044ac834fe22687ff658cc8b30"
+      data-key="111dc0c3730a6bc3a23b0a7eaef4e732"
       async
     />,
   ]);
